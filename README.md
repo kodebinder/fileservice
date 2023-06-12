@@ -1,11 +1,11 @@
-POST
+# POST
 http://localhost:9090/api/v1/objects
 
-GET ALL FILENAMES
+# GET ALL FILENAMES
 http://localhost:9090/api/v1/objects
 
-GET
+# GET
 http://localhost:9090/api/v1/objects/taj.jpeg
 
-DELETE
+# DELETE
 http://localhost:9090/api/v1/objects/taj.jpeg
